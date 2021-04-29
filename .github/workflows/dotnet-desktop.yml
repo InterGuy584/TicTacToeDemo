@@ -101,19 +101,6 @@ jobs:
     - name: Execute unit tests
       run: vstest.console.exe $env:Test_Project_Directory\bin\${{ matrix.configuration }}\$env:Test_Project_Name.dll
 
-    # Run DisableOutOfProcBuild.exe to allow the use of devenv.com out of process.
-    - name: Make sure you can build installer project
-      run: |
-        $vsInstallPath = & vswhere.exe '-property' installationPath
-        cd $vsInstallPath\Common7\IDE\CommonExtensions\Microsoft\VSI\DisableOutOfProcBuild    
-        .\DisableOutOfProcBuild.exe
-
-    # Build the installer using devenv.com
-    - name: Build installer
-      run: |
-        $vsInstallPath = & vswhere.exe '-property' installationPath
-        & $vsInstallPath\Common7\IDE\devenv.com $env:Solution_Name /Build ${{ matrix.configuration }} /Project $env:Setup_Project_Directory\$env:Setup_Project_Name
-
     # Upload the MSIX package: https://github.com/marketplace/actions/upload-artifact
     - name: Upload build artifacts
       uses: actions/upload-artifact@v2

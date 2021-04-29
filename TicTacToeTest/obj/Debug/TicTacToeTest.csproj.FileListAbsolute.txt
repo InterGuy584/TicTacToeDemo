@@ -1,0 +1,17 @@
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\TicTacToeTest.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\TicTacToeTest.pdb
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\MVPTicTacToe.exe
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\MVPTicTacToe.pdb
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\MVPTicTacToe.exe.config
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.csprojAssemblyReference.cache
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.csproj.CoreCompileInputs.cache
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.csproj.CopyComplete
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.dll
+C:\Users\plizo\source\repos\MVPTicTacToe-20210420T173219Z-001\MVPTicTacToe\TicTacToeTest\obj\Debug\TicTacToeTest.pdb
